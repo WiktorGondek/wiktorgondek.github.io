@@ -49,10 +49,13 @@ redirect_from:
 Proficient with:
 * Programming lanugages:
   * Python: Regression analysis, hypothesis testing, signal processing, Monte
-    Carlo simulation, ODEs, recurrent neural networks.
+    Carlo simulation, ODEs, recurrent neural networks, SBERT, TensorFlow, PyTorch, Flask
   * C: PDEs, finite differencing methods
   * R: ggplot2
   * SQL
+  * HTML
+  * CSS
+  * JavaScript
 * Computing:
   * Bash and zsh shells
   * Git version control
