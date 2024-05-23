@@ -11,6 +11,12 @@ redirect_from:
 
 ## Work experience
 
+* March 2024 - Present: Mathematics and Physics Tutor, Integra People
+  * Led one-to-one mathematics and physics tutoring sessions to GCSE and A-level students.
+  * Developed personalised lesson plans tailored to the student's learning style,
+    leading to increased student engagement.
+  * Created regular assessments to track progress, allowing me to facilitate targeted support.  
+`
 * July 2022 - Aug 2022: Student Researcher, University of Warwick
   * Led a £1500 funded research project on detecting high-frequency oscillation
     modes in solar-like stars.
@@ -49,7 +55,7 @@ redirect_from:
 Proficient with:
 * Programming lanugages:
   * Python: Regression analysis, hypothesis testing, signal processing, Monte
-    Carlo simulation, ODEs, recurrent neural networks, SBERT, TensorFlow, PyTorch, Flask
+    Carlo simulation, ODEs, recurrent neural networks, SBERT, TensorFlow, PyTorch, Flask, Pennylane
   * C: PDEs, finite differencing methods
   * R: ggplot2
   * SQL
